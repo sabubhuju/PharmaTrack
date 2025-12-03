@@ -4,35 +4,38 @@ PharmaTrack is a web based POS system designed to modernize pharmacy operations 
 
 ## **🚀 Features**
 
-User authentication (login/registration)
+🔐 User authentication (login/registration)  
 
-Medicine & stock management with CRUD
+📦 Medicine & stock management with CRUD  
 
-POS billing system with digital receipt generation
+🧾 POS billing system with digital receipt generation  
 
-Real-time transaction history
+📜 Real-time transaction history  
 
-Customer information management
+🧍 Customer information management  
 
-Interactive analytics dashboard
+📊 Interactive analytics dashboard  
 
-Responsive and user-friendly UI
+💻 Responsive and user-friendly UI  
+
 
 ## **🧠 Intelligent Algorithms**
 
-Fuzzy Search (Levenshtein Distance): Enables fast and accurate product lookup even with partial/incorrect spellings
+🔍 Fuzzy Search (Levenshtein Distance): Enables fast and accurate product lookup even with partial/incorrect spellings  
 
-Greedy + Heuristic Priority Alerts: Highlights expired, near-expiry, and low-stock products for timely restocking
+⚡ Greedy + Heuristic Priority Alerts: Highlights expired, near-expiry, and low-stock products for timely restocking  
+
 
 ## **🛠 Tech Stack**
 
-Frontend: React.js, Tailwind CSS
+🌐 Frontend: React.js, Tailwind CSS  
 
-Backend: PHP, Apache
+🖥️ Backend: PHP, Apache  
 
-Database: MySQL
+🗄️ Database: MySQL  
 
-Architecture: 3-tier client-server architecture
+🏗️ Architecture: 3-tier client-server architecture  
+
 
 ## **🎯 Outcome**
 
